@@ -39,3 +39,4 @@ Implement at least one extra feature/functionality to each object.
 - *net* turning around depending on cursor's moving direction
 - *buttlerfly* moving in the basket when clicked
 - *water drops* make puddle splash when they reach the visible edge of the window
+- *watering can* tilt determines an audio file start playing
