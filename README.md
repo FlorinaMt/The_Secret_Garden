@@ -36,6 +36,6 @@ Behavior: The water drops should be hidden until the watering can is in a tilted
 Implement at least one extra feature/functionality to each object.
 
 ### Extra functionality: 
-- net turning around depending on cursor's moving direction
-- buttlerfly moving in the basket when clicked
-- 
+- *net* turning around depending on cursor's moving direction
+- *buttlerfly* moving in the basket when clicked
+- *water drops* make puddle splash when they reach the visible edge of the window
