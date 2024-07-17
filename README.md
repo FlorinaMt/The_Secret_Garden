@@ -1,11 +1,10 @@
-
-
-
-
-
-## Requirements
+## Project visualization
 
 ![image](https://github.com/user-attachments/assets/5d6c1c24-3e35-46d9-91f0-b8be6eb73e40)
+
+https://github.com/user-attachments/assets/a6172a19-4819-481c-8045-9ebb02b7f2b8
+
+## Requirements
 
 Object: One net
 
