@@ -34,3 +34,7 @@ Behavior: The water drops should be hidden until the watering can is in a tilted
 
 
 Implement at least one extra feature/functionality to each object.
+
+### Extra functionality: 
+- net turning around depending on cursor's moving direction
+- 
